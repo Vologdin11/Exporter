@@ -1,0 +1,13 @@
+tables:
+  - name: BM_Dinamika_postupleniya_obrasch
+    value_index: 3
+    label_indexes: [0,1,2]
+  - name: BM_Massovie_problemi
+    value_index: 3
+    label_indexes: [0,1,2]
+  - name: BM_Obrascheniya_v_rabote
+    value_index: 3
+    label_indexes: [0,1,2]
+  - name: BM_Srednee_vremya_ras_obr_STP
+    value_index: 3
+    label_indexes: [0,1,2]
